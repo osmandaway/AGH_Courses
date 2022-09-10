@@ -1,0 +1,15 @@
+name: sent
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - rasterio
+  - geopy
+  - geojson
+  - shapely
+  - sentinelsat
+  - utm
+  - ipyleaflet
